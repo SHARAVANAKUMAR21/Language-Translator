@@ -1,15 +1,16 @@
-# Core dependencies
-pillow==9.5.0
-
-# Web framework
-streamlit==1.17.0
-
-# API
-googletrans==4.0.0-rc1
-
-# Additional dependencies (if any)
-# For example, if you use pandas or numpy:
+streamlit==1.18.0
 pandas==2.0.3
-numpy==1.25.2
-
-# Specific versions or additional packages based on your project needs
+numpy==1.24.4
+requests==2.31.0
+pdfplumber==0.8.2
+pydantic==2.7.1
+scikit-learn==1.3.0
+matplotlib==3.8.1
+seaborn==0.12.2
+spacy==3.6.0
+nltk==3.8.1
+PyPDF2==1.27.6
+python-dotenv==1.0.0
+flask==2.3.5
+django==5.2.1
+react==18.2.0
